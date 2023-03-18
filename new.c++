@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
     int a=10+15;
-    cout<<a<<endl;
+    cout<<a+25<<endl;
    return 0;
 }
